@@ -3,8 +3,8 @@
 import {
   default as React,
   Component,
-  PropTypes
 } from 'react';
+import PropTypes from 'prop-types';
 
 import Axis from './axis';
 import Label from './label';
